@@ -2,10 +2,10 @@
 This repo is to make a MVP1 for an mobile application for Android, using a cordova-plugin-qrscanner.
 
 ## CORDOVA Info:
-###Create your first app:
+### Create your first app:
 https://cordova.apache.org/docs/es/latest/guide/cli/index.html
 
-###Configuring Android environment:
+### Configuring Android environment:
 https://cordova.apache.org/docs/es/latest/guide/platforms/android/index.html
 
 
